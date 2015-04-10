@@ -1,0 +1,152 @@
+//--------------------------------------------------------------------
+// Styles
+//--------------------------------------------------------------------
+
+$font-range:		"Range Mono", Helvetica Neue, sans;
+$gold:				#a39161;
+$coal:				#333;				
+$silver:			#ccc;
+$cloud:				#f8f8f8;
+$white:				#fff;
+$space-25:		    25px;
+$space-15:		    15px;
+
+.button {
+	border-radius: 30px;
+	font-family: $font-range;
+	display: block;
+	padding: $space-15;	
+	border: 0;
+	margin-left: auto;
+	margin-right: auto;
+	cursor: pointer;
+	text-align: center;
+	margin-top: $space-25;
+	width: 80%;
+	max-width: 300px;
+}
+
+.bg-gold {
+	background-color: $gold;
+	color: $white;
+} 
+
+.bg-white {
+	background-color: $white;
+	color: $gold;
+} 
+
+.bg-cloud {
+	background-color: $cloud;
+	padding: $space-25;
+}
+
+.ovo-logo {
+	max-width: 80px;
+	text-align: center;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: $space-25;
+}
+
+.drake-logo {
+	text-align: center;
+	display: block;
+	margin-top: $space-15;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.paragraph-controls {
+	position: relative;
+}
+
+.paragraph-generate {
+	background-image: url(../img/arrow.svg);
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-size: 50px;
+	width: 50px;
+	height: 50px;
+	border: 0;
+	top: 25%;
+	left: 65%;
+	position: absolute;
+
+}
+
+small {
+	font-size: 16px;
+	color: $silver;
+	font-family: $font-range;
+	display: block;
+	text-align: center;
+	line-height: 1.4;
+}
+
+input.paragraph	 {
+	padding: $space-15;
+	margin-top: $space-15;
+	border: 1px solid $silver;
+	border-radius: 4px;
+	font-family: $font-range;
+	font-size: 50px;
+	color: $silver;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	width: 80%;
+	max-width: 500px;
+	transition: border .5s ease-in-out;
+	&:focus {
+		border: 1px solid $gold;
+		transition: border .5s ease-in-out;
+	}
+}
+
+input:focus { outline: none; }
+
+p {
+	font-family: $font-range;
+	color: $coal;
+	line-height: 2;
+	max-width: 500px;
+	padding: $space-25;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 20px;
+}
+
+footer {
+	background-color: $gold;
+	color: $white;
+	font-family: $font-range;
+	padding: $space-25;
+	text-align: center;
+	.button {
+		margin-top: 0;
+	}
+
+	a {
+		color: $white;
+	}
+
+	hr {
+		margin-top: $space-25;
+		margin-bottom: $space-25;
+		max-width: 500px;
+		border: 1px white solid;
+		opacity: 0.5;
+	}
+
+	small {
+		margin-top: $space-15;
+		color: $white;
+	}
+}
