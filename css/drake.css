@@ -402,7 +402,9 @@ th {
   display: block;
   margin-top: 15px;
   margin-right: auto;
-  margin-left: auto; }
+  margin-left: auto;
+  width: 80%;
+  max-width: 347px; }
 
 .text-center {
   text-align: center; }
