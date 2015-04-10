@@ -409,10 +409,10 @@ th {
 .text-center {
   text-align: center; }
 
-.paragraph-controls {
+.ipsum-controls {
   position: relative; }
 
-.paragraph-generate {
+.ipsum-generate {
   background-image: url(../img/arrow.svg);
   background-color: transparent;
   background-repeat: no-repeat;
@@ -432,7 +432,7 @@ small {
   text-align: center;
   line-height: 1.4; }
 
-input.paragraph {
+input.ipsum {
   padding: 15px;
   margin-top: 15px;
   border: 1px solid #ccc;
@@ -448,7 +448,7 @@ input.paragraph {
   max-width: 500px;
   -webkit-transition: border .5s ease-in-out;
           transition: border .5s ease-in-out; }
-  input.paragraph:focus {
+  input.ipsum:focus {
     border: 1px solid #a39161;
     -webkit-transition: border .5s ease-in-out;
             transition: border .5s ease-in-out; }
@@ -461,10 +461,18 @@ p {
   color: #333;
   line-height: 2;
   max-width: 500px;
-  padding: 25px;
   margin-left: auto;
   margin-right: auto;
   font-size: 20px; }
+
+.ipsum-text {
+  -webkit-columns: 2 500px;
+     -moz-columns: 2 500px;
+          columns: 2 500px;
+  -webkit-column-gap: 25px;
+     -moz-column-gap: 25px;
+          column-gap: 25px;
+  padding: 25px; }
 
 footer {
   background-color: #a39161;

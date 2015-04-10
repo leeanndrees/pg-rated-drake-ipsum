@@ -64,11 +64,11 @@ $space-15:		    15px;
 	text-align: center;
 }
 
-.paragraph-controls {
+.ipsum-controls {
 	position: relative;
 }
 
-.paragraph-generate {
+.ipsum-generate {
 	background-image: url(../img/arrow.svg);
 	background-color: transparent;
 	background-repeat: no-repeat;
@@ -91,7 +91,7 @@ small {
 	line-height: 1.4;
 }
 
-input.paragraph	 {
+input.ipsum	 {
 	padding: $space-15;
 	margin-top: $space-15;
 	border: 1px solid $silver;
@@ -119,10 +119,15 @@ p {
 	color: $coal;
 	line-height: 2;
 	max-width: 500px;
-	padding: $space-25;
 	margin-left: auto;
 	margin-right: auto;
 	font-size: 20px;
+}
+
+.ipsum-text {
+  columns: 2 500px;
+  column-gap: $space-25;
+  padding: $space-25;
 }
 
 footer {

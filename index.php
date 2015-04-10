@@ -19,9 +19,9 @@
     <p class="text-center">If you’re reading this set your type with Drake.</p>
     <section class="bg-cloud">
       <small>N<sup>o</sup> of Paragraphs</small>
-      <div class="paragraph-controls">
-      <input class="paragraph" type="tel" name="paragraph_count" value="6" maxlength="2">
-      <input class="paragraph-generate" type="submit" name="Generate" value="">
+      <div class="ipsum-controls">
+      <input class="ipsum" type="tel" name="ipsum_count" value="6" maxlength="2">
+      <input class="ipsum-generate" type="submit" name="ipsum_generate" value="">
       </div>
     </section>
 
@@ -34,7 +34,9 @@
 
     ?>
     <div class="bg-gold button">Copy Text</div>
+    <div class="ipsum-text">
     <p>My woes this is that nasty flow way up, I feel blessed.Got a lot of enemies oh my God I'mma write my wrongs.Uh, thinkin' out loud Smart kids that smoke weed, Honor Roll. You only want what's real you just never found it I remember when my schedule was as flexible as she is.Don't talk to me like I'm famous, and don't assume cause I don't respect assumptions babe. For all the stuntin' I'll forever be immortalized I apologize it happened over time.</p>
+    </div>
     <footer>
       <div class="bg-white button">Share with your friends</div>
       <small>No new friends tho.</small>
