@@ -466,12 +466,6 @@ p {
   font-size: 20px; }
 
 .ipsum-text {
-  -webkit-columns: 2 500px;
-     -moz-columns: 2 500px;
-          columns: 2 500px;
-  -webkit-column-gap: 25px;
-     -moz-column-gap: 25px;
-          column-gap: 25px;
   padding: 25px; }
 
 footer {
