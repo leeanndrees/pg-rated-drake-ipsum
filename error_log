@@ -1,0 +1,229 @@
+[21-Apr-2015 14:02:18 America/Denver] PHP Catchable fatal error:  Object of class LoremIpsumGenerator could not be converted to string in /home1/darrend1/public_html/drakeipsum/index.php on line 33
+[21-Apr-2015 14:02:22 America/Denver] PHP Catchable fatal error:  Object of class LoremIpsumGenerator could not be converted to string in /home1/darrend1/public_html/drakeipsum/index.php on line 33
+[21-Apr-2015 14:02:32 America/Denver] PHP Catchable fatal error:  Object of class LoremIpsumGenerator could not be converted to string in /home1/darrend1/public_html/drakeipsum/index.php on line 33
+[21-Apr-2015 14:45:27 America/Denver] PHP Parse error:  syntax error, unexpected 'getContent' (T_STRING) in /home1/darrend1/public_html/drakeipsum/index.php on line 40
+[21-Apr-2015 14:45:29 America/Denver] PHP Parse error:  syntax error, unexpected 'getContent' (T_STRING) in /home1/darrend1/public_html/drakeipsum/index.php on line 40
+[21-Apr-2015 14:45:29 America/Denver] PHP Parse error:  syntax error, unexpected 'getContent' (T_STRING) in /home1/darrend1/public_html/drakeipsum/index.php on line 40
+[21-Apr-2015 14:45:44 America/Denver] PHP Parse error:  syntax error, unexpected 'getContent' (T_STRING) in /home1/darrend1/public_html/drakeipsum/index.php on line 40
+[21-Apr-2015 14:45:45 America/Denver] PHP Parse error:  syntax error, unexpected 'getContent' (T_STRING) in /home1/darrend1/public_html/drakeipsum/index.php on line 40
+[21-Apr-2015 14:45:45 America/Denver] PHP Parse error:  syntax error, unexpected 'getContent' (T_STRING) in /home1/darrend1/public_html/drakeipsum/index.php on line 40
+[21-Apr-2015 14:45:45 America/Denver] PHP Parse error:  syntax error, unexpected 'getContent' (T_STRING) in /home1/darrend1/public_html/drakeipsum/index.php on line 40
+[21-Apr-2015 14:45:45 America/Denver] PHP Parse error:  syntax error, unexpected 'getContent' (T_STRING) in /home1/darrend1/public_html/drakeipsum/index.php on line 40
+[21-Apr-2015 14:45:46 America/Denver] PHP Parse error:  syntax error, unexpected 'getContent' (T_STRING) in /home1/darrend1/public_html/drakeipsum/index.php on line 40
+[21-Apr-2015 14:45:46 America/Denver] PHP Parse error:  syntax error, unexpected 'getContent' (T_STRING) in /home1/darrend1/public_html/drakeipsum/index.php on line 40
+[21-Apr-2015 14:51:04 America/Denver] PHP Parse error:  syntax error, unexpected 'getContent' (T_STRING) in /home1/darrend1/public_html/drakeipsum/index.php on line 29
+[21-Apr-2015 14:51:05 America/Denver] PHP Parse error:  syntax error, unexpected 'getContent' (T_STRING) in /home1/darrend1/public_html/drakeipsum/index.php on line 29
+[21-Apr-2015 15:03:56 America/Denver] PHP Catchable fatal error:  Object of class LoremIpsumGenerator could not be converted to string in /home1/darrend1/public_html/drakeipsum/index.php on line 41
+[21-Apr-2015 15:03:59 America/Denver] PHP Catchable fatal error:  Object of class LoremIpsumGenerator could not be converted to string in /home1/darrend1/public_html/drakeipsum/index.php on line 41
+[21-Apr-2015 15:04:12 America/Denver] PHP Catchable fatal error:  Object of class LoremIpsumGenerator could not be converted to string in /home1/darrend1/public_html/drakeipsum/index.php on line 41
+[21-Apr-2015 15:04:26 America/Denver] PHP Catchable fatal error:  Object of class LoremIpsumGenerator could not be converted to string in /home1/darrend1/public_html/drakeipsum/index.php on line 41
+[21-Apr-2015 15:04:47 America/Denver] PHP Notice:  Use of undefined constant generator - assumed 'generator' in /home1/darrend1/public_html/drakeipsum/index.php on line 41
+[21-Apr-2015 15:05:08 America/Denver] PHP Fatal error:  Call to undefined function getContent() in /home1/darrend1/public_html/drakeipsum/index.php on line 41
+[21-Apr-2015 15:05:09 America/Denver] PHP Fatal error:  Call to undefined function getContent() in /home1/darrend1/public_html/drakeipsum/index.php on line 41
+[21-Apr-2015 15:05:09 America/Denver] PHP Fatal error:  Call to undefined function getContent() in /home1/darrend1/public_html/drakeipsum/index.php on line 41
+[21-Apr-2015 15:05:09 America/Denver] PHP Fatal error:  Call to undefined function getContent() in /home1/darrend1/public_html/drakeipsum/index.php on line 41
+[21-Apr-2015 15:06:16 America/Denver] PHP Catchable fatal error:  Object of class LoremIpsumGenerator could not be converted to string in /home1/darrend1/public_html/drakeipsum/index.php on line 34
+[21-Apr-2015 15:06:54 America/Denver] PHP Catchable fatal error:  Object of class LoremIpsumGenerator could not be converted to string in /home1/darrend1/public_html/drakeipsum/index.php on line 34
+[21-Apr-2015 15:07:15 America/Denver] PHP Catchable fatal error:  Object of class LoremIpsumGenerator could not be converted to string in /home1/darrend1/public_html/drakeipsum/index.php on line 34
+[21-Apr-2015 15:17:13 America/Denver] PHP Notice:  Undefined offset: -1 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 968
+[21-Apr-2015 15:18:25 America/Denver] PHP Notice:  Undefined offset: -1 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 968
+[21-Apr-2015 15:18:26 America/Denver] PHP Notice:  Undefined offset: -1 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 968
+[21-Apr-2015 15:18:28 America/Denver] PHP Notice:  Undefined offset: -1 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 968
+[21-Apr-2015 15:18:29 America/Denver] PHP Notice:  Undefined offset: -1 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 968
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -1 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 968
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -15 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -14 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -13 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -1 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 968
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -14 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -13 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -12 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -11 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -10 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -9 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -8 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -7 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -6 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -5 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -4 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -3 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -2 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -1 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -10 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -9 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -1 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 968
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -21 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -20 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -19 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -18 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -17 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -16 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -15 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -14 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -13 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -1 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 968
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -14 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -13 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -12 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -11 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -10 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -9 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -8 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -7 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -6 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -5 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -1 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 968
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -5 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -1 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 968
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -4 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -3 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -2 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:38 America/Denver] PHP Notice:  Undefined offset: -1 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 867
+[21-Apr-2015 15:37:57 America/Denver] PHP Notice:  Undefined offset: -1 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 968
+[21-Apr-2015 15:38:41 America/Denver] PHP Fatal error:  Call to undefined method LoremIpsumGenerator::gaussianSentence() in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 858
+[21-Apr-2015 15:39:37 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 15:40:33 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 15:41:11 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 15:41:54 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 15:44:38 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 15:44:38 America/Denver] PHP Notice:  Undefined property: LoremIpsumGenerator::$0.12895093574485 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 1042
+[21-Apr-2015 15:44:40 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 15:44:40 America/Denver] PHP Notice:  Undefined property: LoremIpsumGenerator::$0.12895093574485 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 1042
+[21-Apr-2015 15:44:41 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 15:44:41 America/Denver] PHP Notice:  Undefined property: LoremIpsumGenerator::$0.12895093574485 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 1042
+[21-Apr-2015 15:44:47 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 15:44:47 America/Denver] PHP Notice:  Undefined property: LoremIpsumGenerator::$0.12895093574485 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 1042
+[21-Apr-2015 15:44:48 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 15:44:48 America/Denver] PHP Notice:  Undefined property: LoremIpsumGenerator::$0.12895093574485 in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 1042
+[21-Apr-2015 15:45:11 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 15:45:12 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 15:45:15 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 15:45:15 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 15:45:15 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 15:45:47 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 15:45:48 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 16:46:27 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:12:12 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:12:47 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:12:49 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:13:06 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:13:08 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:13:09 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:13:33 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:13:36 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:13:37 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:13:52 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:14:28 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:14:53 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:14:55 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:14:58 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:15:16 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:15:49 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:15:53 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:16:44 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:16:45 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:17:11 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:19:38 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:21:13 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:21:15 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:21:40 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:23:56 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:25:58 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:26:14 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:26:30 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:41:04 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:41:55 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:50:04 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:50:53 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:51:01 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 17:51:06 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[21-Apr-2015 18:05:44 America/Denver] PHP Notice:  Undefined variable: generator in /home1/darrend1/public_html/drakeipsum/index.php on line 31
+[21-Apr-2015 18:05:44 America/Denver] PHP Fatal error:  Call to a member function getContent() on a non-object in /home1/darrend1/public_html/drakeipsum/index.php on line 31
+[22-Apr-2015 16:42:38 America/Denver] PHP Notice:  Undefined variable: generator in /home1/darrend1/public_html/drakeipsum/index.php on line 31
+[22-Apr-2015 16:42:38 America/Denver] PHP Fatal error:  Call to a member function getContent() on a non-object in /home1/darrend1/public_html/drakeipsum/index.php on line 31
+[22-Apr-2015 16:51:36 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home1/darrend1/public_html/drakeipsum/index.php on line 32
+[22-Apr-2015 16:51:38 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home1/darrend1/public_html/drakeipsum/index.php on line 32
+[22-Apr-2015 16:51:39 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home1/darrend1/public_html/drakeipsum/index.php on line 32
+[22-Apr-2015 17:01:59 America/Denver] PHP Notice:  Undefined variable: input in /home1/darrend1/public_html/drakeipsum/index.php on line 31
+[22-Apr-2015 17:02:03 America/Denver] PHP Notice:  Undefined variable: input in /home1/darrend1/public_html/drakeipsum/index.php on line 31
+[22-Apr-2015 17:02:05 America/Denver] PHP Notice:  Undefined variable: input in /home1/darrend1/public_html/drakeipsum/index.php on line 31
+[22-Apr-2015 17:04:52 America/Denver] PHP Parse error:  syntax error, unexpected '$paragraphs' (T_VARIABLE), expecting ',' or ';' in /home1/darrend1/public_html/drakeipsum/index.php on line 29
+[22-Apr-2015 17:04:54 America/Denver] PHP Parse error:  syntax error, unexpected '$paragraphs' (T_VARIABLE), expecting ',' or ';' in /home1/darrend1/public_html/drakeipsum/index.php on line 29
+[22-Apr-2015 17:04:56 America/Denver] PHP Parse error:  syntax error, unexpected '$paragraphs' (T_VARIABLE), expecting ',' or ';' in /home1/darrend1/public_html/drakeipsum/index.php on line 29
+[22-Apr-2015 17:05:21 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home1/darrend1/public_html/drakeipsum/index.php on line 29
+[22-Apr-2015 17:05:23 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home1/darrend1/public_html/drakeipsum/index.php on line 29
+[22-Apr-2015 17:06:57 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home1/darrend1/public_html/drakeipsum/index.php on line 30
+[22-Apr-2015 17:06:58 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home1/darrend1/public_html/drakeipsum/index.php on line 30
+[22-Apr-2015 17:06:58 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home1/darrend1/public_html/drakeipsum/index.php on line 30
+[22-Apr-2015 17:06:58 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home1/darrend1/public_html/drakeipsum/index.php on line 30
+[22-Apr-2015 17:07:17 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home1/darrend1/public_html/drakeipsum/index.php on line 30
+[22-Apr-2015 17:07:18 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home1/darrend1/public_html/drakeipsum/index.php on line 30
+[22-Apr-2015 17:09:22 America/Denver] PHP Notice:  Undefined variable: paragraphs in /home1/darrend1/public_html/drakeipsum/index.php on line 47
+[22-Apr-2015 17:12:12 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:12:14 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:12:16 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:12:21 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:12:53 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:12:57 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:13:00 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:13:05 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:13:19 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:13:26 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:13:40 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:13:46 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:13:50 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:13:54 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:14:08 America/Denver] PHP Notice:  Undefined variable: paragraphs in /home1/darrend1/public_html/drakeipsum/index.php on line 49
+[22-Apr-2015 17:14:15 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:20:21 America/Denver] PHP Notice:  Undefined variable: paragraphs in /home1/darrend1/public_html/drakeipsum/index.php on line 49
+[22-Apr-2015 17:20:24 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:20:49 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:20:55 America/Denver] PHP Notice:  Undefined variable: paragraphs in /home1/darrend1/public_html/drakeipsum/index.php on line 49
+[22-Apr-2015 17:20:57 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:21:35 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:21:39 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:22:45 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:23:44 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:23:46 America/Denver] PHP Notice:  Undefined variable: paragraphs in /home1/darrend1/public_html/drakeipsum/index.php on line 49
+[22-Apr-2015 17:23:48 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:23:52 America/Denver] PHP Notice:  Undefined variable: paragraphs in /home1/darrend1/public_html/drakeipsum/index.php on line 49
+[22-Apr-2015 17:23:55 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:23:58 America/Denver] PHP Notice:  Undefined variable: paragraphs in /home1/darrend1/public_html/drakeipsum/index.php on line 49
+[22-Apr-2015 17:23:59 America/Denver] PHP Notice:  Undefined variable: paragraphs in /home1/darrend1/public_html/drakeipsum/index.php on line 49
+[22-Apr-2015 17:24:00 America/Denver] PHP Notice:  Undefined variable: paragraphs in /home1/darrend1/public_html/drakeipsum/index.php on line 49
+[22-Apr-2015 17:24:00 America/Denver] PHP Notice:  Undefined variable: paragraphs in /home1/darrend1/public_html/drakeipsum/index.php on line 49
+[22-Apr-2015 17:24:00 America/Denver] PHP Notice:  Undefined variable: paragraphs in /home1/darrend1/public_html/drakeipsum/index.php on line 49
+[22-Apr-2015 17:24:00 America/Denver] PHP Notice:  Undefined variable: paragraphs in /home1/darrend1/public_html/drakeipsum/index.php on line 49
+[22-Apr-2015 17:24:04 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:28:01 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:28:06 America/Denver] PHP Notice:  Undefined variable: paragraphs in /home1/darrend1/public_html/drakeipsum/index.php on line 49
+[22-Apr-2015 17:28:08 America/Denver] PHP Notice:  Undefined variable: paragraphs in /home1/darrend1/public_html/drakeipsum/index.php on line 49
+[22-Apr-2015 17:28:17 America/Denver] PHP Notice:  Undefined variable: paragraphs in /home1/darrend1/public_html/drakeipsum/index.php on line 37
+[22-Apr-2015 17:28:27 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:29:01 America/Denver] PHP Notice:  Undefined variable: paragraphs in /home1/darrend1/public_html/drakeipsum/index.php on line 38
+[22-Apr-2015 17:29:03 America/Denver] PHP Notice:  Undefined variable: paragraphs in /home1/darrend1/public_html/drakeipsum/index.php on line 38
+[22-Apr-2015 17:30:05 America/Denver] PHP Notice:  Undefined variable: paragraphs in /home1/darrend1/public_html/drakeipsum/index.php on line 38
+[22-Apr-2015 17:30:09 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:31:50 America/Denver] PHP Notice:  Undefined variable: paragraphs in /home1/darrend1/public_html/drakeipsum/index.php on line 38
+[22-Apr-2015 17:32:31 America/Denver] PHP Notice:  Undefined variable: paragraphs in /home1/darrend1/public_html/drakeipsum/index.php on line 38
+[22-Apr-2015 17:33:00 America/Denver] PHP Notice:  Undefined variable: paragraphs in /home1/darrend1/public_html/drakeipsum/index.php on line 38
+[22-Apr-2015 17:33:48 America/Denver] PHP Notice:  Undefined variable: paragraphs in /home1/darrend1/public_html/drakeipsum/index.php on line 38
+[22-Apr-2015 17:33:51 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:35:32 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:36:47 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:37:39 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:38:51 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:39:42 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:40:40 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:40:49 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:42:23 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:46:18 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:46:30 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:47:22 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:47:44 America/Denver] PHP Notice:  Undefined variable: paragraphs in /home1/darrend1/public_html/drakeipsum/index.php on line 38
+[22-Apr-2015 17:47:52 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:48:01 America/Denver] PHP Notice:  Undefined variable: paragraphs in /home1/darrend1/public_html/drakeipsum/index.php on line 38
+[22-Apr-2015 17:56:30 America/Denver] PHP Notice:  Undefined variable: paragraphs in /home1/darrend1/public_html/drakeipsum/index.php on line 38
+[22-Apr-2015 17:56:32 America/Denver] PHP Notice:  Undefined variable: paragraphs in /home1/darrend1/public_html/drakeipsum/index.php on line 38
+[22-Apr-2015 17:56:38 America/Denver] PHP Notice:  Object of class LoremIpsumGenerator could not be converted to int in /home1/darrend1/public_html/drakeipsum/LoremIpsum.class.php on line 860
+[22-Apr-2015 17:56:39 America/Denver] PHP Notice:  Undefined variable: paragraphs in /home1/darrend1/public_html/drakeipsum/index.php on line 38

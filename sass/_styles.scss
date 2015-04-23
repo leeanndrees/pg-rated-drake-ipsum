@@ -72,13 +72,13 @@ $space-15:		    15px;
 	background-image: url(../img/arrow.svg);
 	background-color: transparent;
 	background-repeat: no-repeat;
-	background-size: 50px;
 	width: 50px;
-	height: 50px;
+	height: 40px;
 	border: 0;
-	top: 25%;
-	left: 65%;
-	position: absolute;
+  	position: absolute;
+  	right: 9%;
+  	top: 50%;
+  	transform: translateY(-139%);
 
 }
 
@@ -117,15 +117,16 @@ input:focus { outline: none; }
 p {
 	font-family: $font-range;
 	color: $coal;
-	line-height: 2;
-	max-width: 500px;
+	line-height: 1.6;
+	max-width: 600px;
 	margin-left: auto;
 	margin-right: auto;
-	font-size: 20px;
+	font-size: 18px;
 }
 
 .ipsum-text {
   padding: $space-25;
+
 }
 
 footer {
@@ -154,4 +155,10 @@ footer {
 		margin-top: $space-15;
 		color: $white;
 	}
+}
+
+form {
+	max-width: 600px;
+  margin: 0 auto;
+  position: relative;
 }
