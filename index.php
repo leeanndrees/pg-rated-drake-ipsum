@@ -28,10 +28,21 @@
         <form action="" method="post">
           <input name="numOfP" id="ipsum_input" placeholder="6" class="ipsum" type="tel" name="paragraph_count" maxlength="2" value="">
           <input name="submit" class="ipsum-generate" type="submit" name="Generate" value="">
-          <button name="copy" class="bg-gold button" type="submit" name="copy" value="Copy Text">Copy Text</button>
+          <button name="copy" id="copy-btn" class="bg-gold button" type="submit" name="copy" value="Copy Text" data-clipboard-target="clipboard_ipsum">Copy Text</button>
+        <script src="ZeroClipboard.js"></script>
+ 
+      <script>
+      var client = new ZeroClipboard( document.getElementById("copy-btn") );
+
+      client.on( "ready", function( readyEvent ) {
+        client.on( "aftercopy", function( event ) {
+          alert("drake ipsum successfully copied!");
+        } );
+      } );
+      </script>
         </form>   
       </div>
-      <div class="ipsum-text">
+      <div class="ipsum-text" id="clipboard_ipsum">
         <?php 
           require('LoremIpsum.class.php');
           $generator = new LoremIpsumGenerator; 
