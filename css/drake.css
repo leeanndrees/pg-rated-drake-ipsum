@@ -169,7 +169,6 @@ figure {
  * Address differences between Firefox and other browsers.
  */
 hr {
-  -moz-box-sizing: content-box;
   box-sizing: content-box;
   height: 0; }
 
@@ -367,7 +366,7 @@ th {
   font-weight: 700;
   font-style: normal; }
 .button {
-  border-radius: 30px;
+  border-radius: 4px;
   font-family: "Range Mono", Helvetica Neue, sans;
   display: block;
   padding: 15px;
@@ -425,7 +424,9 @@ th {
   position: absolute;
   right: 9%;
   top: 50%;
-  transform: translateY(-139%); }
+  -webkit-transform: translateY(-139%);
+      -ms-transform: translateY(-139%);
+          transform: translateY(-139%); }
 
 small {
   font-size: 16px;
@@ -449,19 +450,36 @@ input.ipsum {
   text-align: center;
   width: 80%;
   max-width: 500px;
-  transition: border .5s ease-in-out; }
+  -webkit-transition: border .5s ease-in-out;
+          transition: border .5s ease-in-out;
+  color: #333; }
   input.ipsum:focus {
     border: 1px solid #a39161;
-    transition: border .5s ease-in-out; }
+    -webkit-transition: border .5s ease-in-out;
+            transition: border .5s ease-in-out; }
 
 input:focus {
   outline: none; }
 
+::-webkit-input-placeholder {
+  color: #ccc; }
+
+:-moz-placeholder {
+  color: #ccc;
+  opacity: 1; }
+
+::-moz-placeholder {
+  color: #ccc;
+  opacity: 1; }
+
+:-ms-input-placeholder {
+  color: #ccc; }
+
 p {
   font-family: "Range Mono", Helvetica Neue, sans;
   color: #333;
-  line-height: 1.6;
-  max-width: 600px;
+  line-height: 1.8;
+  max-width: 800px;
   margin-left: auto;
   margin-right: auto;
   font-size: 18px; }

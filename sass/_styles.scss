@@ -12,7 +12,7 @@ $space-25:		    25px;
 $space-15:		    15px;
 
 .button {
-	border-radius: 30px;
+	border-radius: 4px;
 	font-family: $font-range;
 	display: block;
 	padding: $space-15;	
@@ -106,6 +106,7 @@ input.ipsum	 {
 	width: 80%;
 	max-width: 500px;
 	transition: border .5s ease-in-out;
+	color: $coal;
 	&:focus {
 		border: 1px solid $gold;
 		transition: border .5s ease-in-out;
@@ -114,11 +115,26 @@ input.ipsum	 {
 
 input:focus { outline: none; }
 
+::-webkit-input-placeholder { 
+    color:    $silver;
+}
+:-moz-placeholder { 
+   color:    $silver;
+   opacity:  1;
+}
+::-moz-placeholder {
+   color:    $silver;
+   opacity:  1;
+}
+:-ms-input-placeholder {
+   color:    $silver;
+}
+
 p {
 	font-family: $font-range;
 	color: $coal;
-	line-height: 1.6;
-	max-width: 600px;
+	line-height: 1.8;
+	max-width: 800px;
 	margin-left: auto;
 	margin-right: auto;
 	font-size: 18px;
@@ -159,6 +175,6 @@ footer {
 
 form {
 	max-width: 600px;
-  margin: 0 auto;
-  position: relative;
+  	margin: 0 auto;
+  	position: relative;
 }

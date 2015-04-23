@@ -26,7 +26,7 @@
           }    
         ?>
         <form action="" method="post">
-          <input name="numOfP" id="ipsum_input" class="ipsum" type="tel" name="paragraph_count" maxlength="2" value="">
+          <input name="numOfP" id="ipsum_input" placeholder="6" class="ipsum" type="tel" name="paragraph_count" maxlength="2" value="">
           <input name="submit" class="ipsum-generate" type="submit" name="Generate" value="">
           <button name="copy" class="bg-gold button" type="submit" name="copy" value="Copy Text">Copy Text</button>
         </form>   
@@ -40,11 +40,10 @@
       </div>
     </section>
     <footer>
-      <div class="bg-white button">Share with your friends</div>
+      <a href="https://twitter.com/intent/tweet?text=Drake Ipsum: If you’re reading this set your type with Drake&amp;url=http://drakeipsum.co" rel="nofollow" target="_blank" title="Share on Twitter"><div class="bg-white button">Share with your friends</div></a>
       <small>No new friends tho.</small>
       <hr>
-      <small>This was created <em>real</em> quick by <a target="_blank" href="http://russted.com">russted</a> & <a href="">@darrendub</a> using the magics of <a href="http://tinsology.net/scripts/php-lorem-ipsum-generator/">Tinsology</a><small>
-      <small>Set in <a href="">Range</a> and hosted on the Github.</small>
+      <small>This was created <em>0-100, real quick</em> by <a target="_blank" href="http://russted.com">russted</a> & <a target="_blank" href="http://darrendub.com">@darrendub</a> using the magics of <a href="http://tinsology.net/scripts/php-lorem-ipsum-generator/">Tinsology</a> and the <a href="https://pilgrimfonts.com/range-mono/">Range</a> typeface.<small>
     </footer>
   </body>
 </html>
