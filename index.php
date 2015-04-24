@@ -6,7 +6,7 @@
     <title>Drake Ipsum</title>
     <meta name="author" content="Russell Shearer & Darren Wong">
     <meta name="description" content="If you’re reading this set your type with Drake.">
-    <meta property="og:title" content="Drake Ipsum: If you're reading this, set your type with drake"/>
+    <meta property="og:title" content="Drake Ipsum; if you're reading this, set your type with Drake."/>
     <meta property="og:site_name" content="Drake Ipsum"/>
     <meta property="og:description" content="Tired of the same 'ol boring fake filler text? Need copy with emotion, with passion? Need text about broken relationships and thoughts on the human condition? Look no further, upgrade your text with lyrics from the real 6 god boi."/>
     <meta name="twitter:card" content="summary_large_image">
@@ -92,7 +92,7 @@
       </div>
     </section>
     <footer>
-      <a href="https://twitter.com/intent/tweet?text=Drake Ipsum: If you’re reading this set your type with Drake&amp;url=http://drakeipsum.co" rel="nofollow" target="_blank" title="Share on Twitter"><div class="bg-white button">Share with friends</div></a>
+      <a href="https://twitter.com/intent/tweet?text=Drake Ipsum; if you're reading this, set your type with Drake.&amp;url=http://drakeipsum.co" rel="nofollow" target="_blank" title="Share on Twitter"><div class="bg-white button">Share with friends</div></a>
       <small>No new friends tho.</small>
       <hr>
       <small>This was created <em>0-100, real quick</em> by <a target="_blank" href="http://russted.com">russted</a> & <a target="_blank" href="http://darrendub.com">@darrendub</a> using the magics of <a href="http://tinsology.net/scripts/php-lorem-ipsum-generator/">Tinsology</a> and the <a href="https://pilgrimfonts.com/range-mono/">Range</a> typeface.<small>

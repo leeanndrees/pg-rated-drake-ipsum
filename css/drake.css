@@ -539,8 +539,12 @@ form {
 .ipsum-empty {
   display: none; }
   .ipsum-empty.active {
-    display: block; }
+    display: block;
+    padding: 15px; }
 
+@media all and (min-width: 600px) {
+  .ipsum-empty {
+    padding: 25px; } }
 .twitter-share-button {
   position: absolute;
   z-index: 20;

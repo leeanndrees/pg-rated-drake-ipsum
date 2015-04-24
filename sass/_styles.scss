@@ -221,6 +221,13 @@ form {
 	display: none;
 	&.active {
 		display: block;
+		padding: $space-15;
+	}
+}
+
+@media all and (min-width: 600px) {
+	.ipsum-empty {
+		padding: $space-25;
 	}
 }
 
