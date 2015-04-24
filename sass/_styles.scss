@@ -11,6 +11,7 @@ $white:				#fff;
 $space-25:		    25px;
 $space-15:		    15px;
 
+
 .button {
 	border-radius: 4px;
 	font-family: $font-range;
@@ -38,7 +39,14 @@ $space-15:		    15px;
 
 .bg-cloud {
 	background-color: $cloud;
-	padding: $space-25;
+	padding: $space-15;
+	
+}
+
+@media all and (min-width: 600px) {
+	.bg-cloud {
+		padding: $space-25;
+	}
 }
 
 .ovo-logo {
@@ -78,6 +86,7 @@ $space-15:		    15px;
   	position: absolute;
   	right: 9%;
   	top: 50%;
+  	-webkit-transform: translateY(-139%);
   	transform: translateY(-139%);
 
 }
@@ -137,11 +146,17 @@ p {
 	max-width: 800px;
 	margin-left: auto;
 	margin-right: auto;
-	font-size: 18px;
+	font-size: 16px;
+}
+
+@media all and (min-width: 600px) {
+	p {
+		font-size: 18px;
+	}	
 }
 
 .ipsum-text {
-  padding: $space-25;
+	padding: $space-15;
 
 }
 
@@ -157,7 +172,7 @@ footer {
 
 	a {
 		color: $white;
-		text-decoration: none!important;
+		text-decoration: underline;
 	}
 
 	hr {
@@ -171,6 +186,10 @@ footer {
 	small {
 		margin-top: $space-15;
 		color: $white;
+		max-width: 610px;
+		margin-left: auto;
+		margin-right: auto;
+		line-height: 1.4;
 	}
 }
 
@@ -179,3 +198,23 @@ form {
   	margin: 0 auto;
   	position: relative;
 }
+
+#copy-btn {
+	opacity: 0.5;
+	cursor: not-allowed;
+	pointer-events: none;
+	&.active {
+		opacity: 1;
+		cursor: pointer;
+		pointer-events: auto;
+	}
+}
+
+.ipsum-empty {
+	display: none;
+	&.active {
+		display: block;
+	}
+}
+
+
