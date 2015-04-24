@@ -18,7 +18,7 @@
   <body>
     <img class="ovo-logo" src="img/ovo.svg" alt="OVO unruly">
     <img class="drake-logo" src="img/drake.png" alt="Drake Ipsum" width="auto" height="50">
-    <p class="text-center">You've been runnin' thru the 6 with your woes too hard, just hold on you're going:</p>
-    <a href="http://drakeipsum.co/"><div class="bg-gold button">Home</div></a>
+    <p class="text-center">You've been runnin' thru the 6 with your woes too hard and now you're lost. Just hold on you're going:</p>
+    <a style="text-decoration:none;" href="http://drakeipsum.co/"><div class="bg-gold button">Home</div></a>
   </body>
 </html>

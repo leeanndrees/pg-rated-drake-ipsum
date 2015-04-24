@@ -139,6 +139,13 @@ input:focus { outline: none; }
    color:    $silver;
 }
 
+::selection {
+  background: $gold; 
+}
+::-moz-selection {
+  background: $gold;
+}
+
 p {
 	font-family: $font-range;
 	color: $coal;
