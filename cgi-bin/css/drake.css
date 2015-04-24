@@ -416,7 +416,8 @@ th {
   text-align: center; }
 
 .ipsum-controls {
-  position: relative; }
+  position: absolute;
+  width: 100%; }
 
 .ipsum-generate {
   background-image: url(../img/arrow.svg);
@@ -428,8 +429,8 @@ th {
   position: absolute;
   right: 9%;
   top: 50%;
-  -webkit-transform: translateY(-139%);
-  transform: translateY(-139%); }
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%); }
 
 small {
   font-size: 16px;
@@ -475,12 +476,6 @@ input:focus {
 
 :-ms-input-placeholder {
   color: #ccc; }
-
-::selection {
-  background: #a39161; }
-
-::-moz-selection {
-  background: #a39161; }
 
 p {
   font-family: "Range Mono", Helvetica Neue, sans;
@@ -528,23 +523,11 @@ form {
   position: relative; }
 
 #copy-btn {
-  opacity: 0.5;
-  cursor: not-allowed;
-  pointer-events: none; }
+  display: none; }
   #copy-btn.active {
-    opacity: 1;
-    cursor: pointer;
-    pointer-events: auto; }
+    display: block; }
 
 .ipsum-empty {
   display: none; }
   .ipsum-empty.active {
     display: block; }
-
-.twitter-share-button {
-  position: absolute;
-  z-index: 20;
-  top: 15px;
-  border-bottom: none;
-  text-indent: -9999px;
-  right: 15px; }

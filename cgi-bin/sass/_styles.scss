@@ -73,7 +73,8 @@ $space-15:		    15px;
 }
 
 .ipsum-controls {
-	position: relative;
+	position: absolute;
+	width: 100%;
 }
 
 .ipsum-generate {
@@ -86,8 +87,8 @@ $space-15:		    15px;
   	position: absolute;
   	right: 9%;
   	top: 50%;
-  	-webkit-transform: translateY(-139%);
-  	transform: translateY(-139%);
+  	-webkit-transform: translateY(-50%);
+  	transform: translateY(-50%);
 
 }
 
@@ -137,13 +138,6 @@ input:focus { outline: none; }
 }
 :-ms-input-placeholder {
    color:    $silver;
-}
-
-::selection {
-  background: $gold; 
-}
-::-moz-selection {
-  background: $gold;
 }
 
 p {
@@ -207,13 +201,9 @@ form {
 }
 
 #copy-btn {
-	opacity: 0.5;
-	cursor: not-allowed;
-	pointer-events: none;
+	display: none;
 	&.active {
-		opacity: 1;
-		cursor: pointer;
-		pointer-events: auto;
+		display: block;
 	}
 }
 
@@ -223,14 +213,3 @@ form {
 		display: block;
 	}
 }
-
-.twitter-share-button {
-	position: absolute;
-  	z-index: 20;
-  	top: $space-15;
-  	border-bottom: none;
-  	text-indent: -9999px;
-  	right: $space-15;
-}
-
-

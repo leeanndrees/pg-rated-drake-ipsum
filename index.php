@@ -19,6 +19,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
   </head>
   <body>
+    <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
     <img class="ovo-logo" src="img/ovo.svg" alt="OVO unruly">
     <img class="drake-logo" src="img/drake.png" alt="Drake Ipsum" width="auto" height="50">
     <p class="text-center">If you’re reading this set your type with Drake.</p>
@@ -97,6 +98,7 @@
       <small>This was created <em>0-100, real quick</em> by <a target="_blank" href="http://russted.com">russted</a> & <a target="_blank" href="http://darrendub.com">@darrendub</a> using the magics of <a href="http://tinsology.net/scripts/php-lorem-ipsum-generator/">Tinsology</a> and the <a href="https://pilgrimfonts.com/range-mono/">Range</a> typeface.<small>
     </footer>
   </body>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
   <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
