@@ -546,7 +546,7 @@ form {
   .ipsum-empty {
     padding: 25px; } }
 .twitter-share-button {
-  position: absolute;
+  position: absolute !important;
   z-index: 20;
   top: 15px;
   border-bottom: none;

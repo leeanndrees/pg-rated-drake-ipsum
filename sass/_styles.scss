@@ -232,7 +232,7 @@ form {
 }
 
 .twitter-share-button {
-	position: absolute;
+	position: absolute !important;
   	z-index: 20;
   	top: $space-15;
   	border-bottom: none;
